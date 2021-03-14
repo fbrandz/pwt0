@@ -1,0 +1,9 @@
+{
+  "name": "pwt0",
+  "version": "1.0.0",
+  "private": "true",
+  "main": "index.js",
+  "dependencies": {
+    "playwright": "^1.9.2"
+  }
+}
